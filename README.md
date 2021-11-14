@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HeavyReality
+<!---- 👋 Hi, I’m @HeavyReality
 - 👀 I’m interested in Unity, Javascript and more.
 - 🌱 I’m currently learning as much as I can
-<!--- - 💞️ I’m looking to collaborate on ...
+ - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
 <!---
